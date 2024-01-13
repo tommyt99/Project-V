@@ -1,10 +1,10 @@
 # Project-V
 Live a life worth living.
-Quantifying trust. A Social Credit score for business. 
+Quantifying trust. A Social Credit score for business and entrepreneurship. 
 
 
 V Rank
-    Level based on: Trustworthiness, Strong Moral Character, Virtuousity, Good Heart, Ethics, dependability, secret-keeping capability, honesty, anti-corruption, justice, humbleness, your contributions to humanity. 
+    Level based on: Trustworthiness, Strong Moral Character, Virtuousity, Good Heart, Ethics, dependability, secret-keeping capability, honesty, anti-corruption, justice, humbleness, your GOOD contributions to humanity. 
 
 
 How to verify V Rank? 
