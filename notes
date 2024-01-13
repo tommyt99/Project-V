@@ -1,0 +1,31 @@
+Checking Python version 
+    python --version (this may call on python 2, which has reached end-of-life) 
+    python3 --version (this is best practice)
+
+Virtual Environments 
+    conda create --name nameoffile python=3.X 
+To activate venv
+    conda activate nameoffile
+To deactivate venv
+    conda deactivate
+To update to latest version of Python inside the venv, activate virutal env., and then type this cmd
+    conda update python 
+To update all conda packages
+    conda update --all 
+
+Python3 File Location
+    where python3 >> will show you the path of the Python executable 
+
+To install Homebrew
+    Follow instructions on this website 
+        https://brew.sh/
+    To get latest version of Python 
+        'brew install python' or use 'conda update python' inside a venv 
+
+Python Style Guide (PEP 8) recommends pothole case or Snake Case to have uniformity in the codebase for readability. Important for consistency in open-source codebases.
+    first_variable_name = ...
+
+F-strings with Python, printing text to console, introduced in Python 3.6 
+    message = f"String of text with {variable} inserts." 
+    print(message)
+

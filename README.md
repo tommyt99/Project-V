@@ -1,9 +1,9 @@
 # Project-V
-Live a life worth living.
-Quantifying trust. A Social Credit score for business and entrepreneurship. 
-
+Virtuosity
 
 V Rank
+    My take on a Social Credit Score system. 
+    Quantifying trust. Finding mentors through the internet. 
     Level based on: Trustworthiness, Strong Moral Character, Virtuousity, Good Heart, Ethics, dependability, secret-keeping capability, honesty, anti-corruption, justice, humbleness, your GOOD contributions to humanity. 
 
 
