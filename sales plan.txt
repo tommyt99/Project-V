@@ -1,6 +1,8 @@
 Target Market
     People who WANT to improve their lives. 
     Testing how this piece of code shows up in Github. 
+    Testing to see if commits to this branch are able to show up on the MacBook Pro. 
+    Lets test this pull request gimick. 
 
 Competitive Advantage
     Never done before. You are providing a service to the world in terms of lessons learned. Get paid for your knowledge. This is the shortcut to the Fastlane, to leading your own life. You only hear about the success stories of the best of the best like Steve Jobs or Elon Musk. There are many people who do not achieve that apex level of fame, yet still lead their own lives. Project V brings these folks, as well as their knoweldge, into the limelight. 
