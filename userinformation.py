@@ -29,8 +29,10 @@ class UserInfo:
 
     def __str__(self):
         """
-        Return a string representation of the user information.
+        Return a string representation of the user information. Gets called upon with the print() function in main.py
         """
-        return f"User: {self.full_name()}, Email: {self.email}, Age: {self.age}"
+        return f"User: {self.full_name()}, Email: {self.email}, Age: {self.age}, V Rank: {self.v_rank}"
+    
+
 
 
