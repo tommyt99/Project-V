@@ -1,6 +1,6 @@
 Checking Python version 
     python --version (this may call on python 2, which has reached end-of-life) 
-    python3 --version (this is best practice)
+    python3 --version 
 
 Virtual Environments 
     conda create --name nameoffile python=3.X 
@@ -29,3 +29,5 @@ F-strings with Python, printing text to console, introduced in Python 3.6
     message = f"String of text with {variable} inserts." 
     print(message)
 
+Check PATH variable. Directories are separated by colons (:)
+    echo $PATH
