@@ -1,5 +1,6 @@
 # Project-V
-If you're gonna live, might as well live well. To live well is to lead one's own life. To be fully in control and tame the chaos in it. 
+If you're gonna live, might as well live well. 
+To live well is to lead one's own life. To be fully in control and tame the chaos in it. 
 
 Taming your finances is living well. 
 To be in control of your spending, your decisions, your mind. Modern society is very complicated, and so is your money's movement. Seeing where your money is flowing should be simple and beautiful. 
